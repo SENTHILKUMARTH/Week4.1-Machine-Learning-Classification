@@ -1,0 +1,40 @@
+Random Forest
+-------------
+1. what is accuracy of the test set
+0.88
+
+2. what is the percentage of purchased test set
+0.86
+
+3. what is the percentage of non purchased test set
+0.90
+
+4. what is the sum of correctly and wrongly classified purchased test set
+0.93
+
+5. what is the sum of correctly and wrongly classified non purchased test set
+0.81
+
+6. what is the overall performance of purchased test set
+0.89
+
+7. what is the overall performance of non purchased test set
+0.85
+
+8. what is the average performance of precision correctly and wrongly classified
+0.87
+
+9. what is the average performance of recall correctly and wrongly classified
+0.88
+
+10. what is the average performance of f1-measure correctly and wrongly classified
+0.87
+
+11. what is the sum of product precision rate (weight of each claim)
+0.88
+
+12. what is the sum of product recall rate (weight of each claim)
+0.88
+
+13. what is the sum of product f1-measure rate (weight of each claim)
+0.88
